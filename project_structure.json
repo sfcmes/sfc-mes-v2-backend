@@ -1,0 +1,368 @@
+﻿[
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\.vscode",
+        "Name":  ".vscode",
+        "Type":  "Directory",
+        "Children":  [
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\.vscode\\settings.json",
+                             "Name":  "settings.json",
+                             "Type":  "File"
+                         }
+                     ]
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\src",
+        "Name":  "src",
+        "Type":  "Directory",
+        "Children":  [
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\config",
+                             "Name":  "config",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\config\\cors.js",
+                                                  "Name":  "cors.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\config\\database.js",
+                                                  "Name":  "database.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\config\\databaseInit.js",
+                                                  "Name":  "databaseInit.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\config\\env.js",
+                                                  "Name":  "env.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers",
+                             "Name":  "controllers",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\authController.js",
+                                                  "Name":  "authController.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\componentController alway good.js",
+                                                  "Name":  "componentController alway good.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\componentController.js",
+                                                  "Name":  "componentController.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\otherComponentController copy.js",
+                                                  "Name":  "otherComponentController copy.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\otherComponentController.js",
+                                                  "Name":  "otherComponentController.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\projectController.js",
+                                                  "Name":  "projectController.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\roleController.js",
+                                                  "Name":  "roleController.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\sectionController.js",
+                                                  "Name":  "sectionController.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\controllers\\userController.js",
+                                                  "Name":  "userController.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\middleware",
+                             "Name":  "middleware",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\middleware\\auth.js",
+                                                  "Name":  "auth.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\middleware\\index.js",
+                                                  "Name":  "index.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\middleware\\logger.js",
+                                                  "Name":  "logger.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\middleware\\optionalAuth.js",
+                                                  "Name":  "optionalAuth.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\middleware\\uploadMiddleware.js",
+                                                  "Name":  "uploadMiddleware.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\models",
+                             "Name":  "models",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\models\\project.js",
+                                                  "Name":  "project.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\models\\user.js",
+                                                  "Name":  "user.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries",
+                             "Name":  "queries",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\componentQueries.js",
+                                                  "Name":  "componentQueries.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\otherComponentQueries.js",
+                                                  "Name":  "otherComponentQueries.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\projectQueries.js",
+                                                  "Name":  "projectQueries.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\roleQueries.js",
+                                                  "Name":  "roleQueries.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\sectionQueries.js",
+                                                  "Name":  "sectionQueries.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\userQueries copy.js",
+                                                  "Name":  "userQueries copy.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\queries\\userQueries.js",
+                                                  "Name":  "userQueries.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes",
+                             "Name":  "routes",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\authRoutes.js",
+                                                  "Name":  "authRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\componentRoutes copy.js",
+                                                  "Name":  "componentRoutes copy.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\componentRoutes.js",
+                                                  "Name":  "componentRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\downloadRoutes.js",
+                                                  "Name":  "downloadRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\index.js",
+                                                  "Name":  "index.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\otherComponentRoutes copy.js",
+                                                  "Name":  "otherComponentRoutes copy.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\otherComponentRoutes.js",
+                                                  "Name":  "otherComponentRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\projectRoutes.js",
+                                                  "Name":  "projectRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\roleRoutes.js",
+                                                  "Name":  "roleRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\sectionRoutes.js",
+                                                  "Name":  "sectionRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\uploadRoutes.js",
+                                                  "Name":  "uploadRoutes.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\routes\\userRoutes.js",
+                                                  "Name":  "userRoutes.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\utils",
+                             "Name":  "utils",
+                             "Type":  "Directory",
+                             "Children":  [
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\utils\\index.js",
+                                                  "Name":  "index.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\utils\\logger.js",
+                                                  "Name":  "logger.js",
+                                                  "Type":  "File"
+                                              },
+                                              {
+                                                  "FullName":  "F:\\dev\\sfc-mes-backend\\src\\utils\\Logger_bak.js",
+                                                  "Name":  "Logger_bak.js",
+                                                  "Type":  "File"
+                                              }
+                                          ]
+                         },
+                         {
+                             "FullName":  "F:\\dev\\sfc-mes-backend\\src\\index.js",
+                             "Name":  "index.js",
+                             "Type":  "File"
+                         }
+                     ]
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\tests",
+        "Name":  "tests",
+        "Type":  "Directory",
+        "Children":  [
+
+                     ]
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\.env",
+        "Name":  ".env",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\.gitignore",
+        "Name":  ".gitignore",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\app.log",
+        "Name":  "app.log",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\combined.log",
+        "Name":  "combined.log",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\database_diagram.md",
+        "Name":  "database_diagram.md",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\DATABASE_SCHEMA.md",
+        "Name":  "DATABASE_SCHEMA.md",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\error.log",
+        "Name":  "error.log",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\generateSecret.js",
+        "Name":  "generateSecret.js",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\generate_project_structure.ps1",
+        "Name":  "generate_project_structure.ps1",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\LICENSE",
+        "Name":  "LICENSE",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\nodemon.json",
+        "Name":  "nodemon.json",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\package-lock.json",
+        "Name":  "package-lock.json",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\package.json",
+        "Name":  "package.json",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\README.md",
+        "Name":  "README.md",
+        "Type":  "File"
+    },
+    {
+        "FullName":  "F:\\dev\\sfc-mes-backend\\sfc_mes_schema.sql",
+        "Name":  "sfc_mes_schema.sql",
+        "Type":  "File"
+    }
+]
